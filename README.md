@@ -1,1 +1,1 @@
-# Slim-Style
+SLIM_STYLE FOR CLIENT. 
